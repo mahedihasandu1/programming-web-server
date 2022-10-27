@@ -4,35 +4,40 @@
     "title":"web-Development",
     "price": " 7999",
     "description":"Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websites and web applications that run online on a browser. It may, however, also include web design, web programming, and database management.Web development is closely related to the job of designing the features and functionality of apps (web design). The term development is usually reserved for the actual construction of these things (that is to say, the programming of sites).The basic tools involved in web development are programming languages called HTML (Hypertext Markup Language), CSS (Cascading Style Sheets), and JavaScript. There are, however, a number of other programs used to “manage” or facilitate the construction of sites that would otherwise have to be done “from scratch” by writing code. A number of content management systems (CMS) fall into this category, including WordPress, Joomla!, Drupal, TYPO3, and Adobe Experience Manager, among others. ",
-    "image": "https://www.mooc.org/hubfs/web-programming-languages.jpg"
+    "image": "https://www.mooc.org/hubfs/web-programming-languages.jpg",
+    "duration": "6 Month"
     },
     {
     "id":2,
     "title":"Web design",
     "price": " 6999",
     "description":"A Web Designing course belongs to the field of Computer Science and IT. It enables students to learn various techniques, tools and programming languages in order to create and maintain web pages. There is an array of courses in this field ranging from certificate and Diploma courses to UG, PG and PGDM programs.",
-    "image": "https://img.freepik.com/free-vector/cartoon-web-design-background_52683-70879.jpg?w=2000"
+    "image": "https://img.freepik.com/free-vector/cartoon-web-design-background_52683-70879.jpg?w=2000",
+    "duration": "4 Month"
     },
     {
     "id":3,
     "title":"S.E.O",
     "price": " 3000",
     "description":"SEO stands for “search engine optimization.” In simple terms, it means the process of improving your site to increase its visibility when people search for products or services related to your business in Google, Bing, and other search engines. The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business.",
-    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3Bg0B4cUio1qquGw5Ovh8TLVaoxLMT6s-zx3Y2MWoNmD5xN8a670lUxFarjPtZGj0i4&usqp=CAU"
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3Bg0B4cUio1qquGw5Ovh8TLVaoxLMT6s-zx3Y2MWoNmD5xN8a670lUxFarjPtZGj0i4&usqp=CAU",
+    "duration": "3 Month"
     },
     {
     "id":4,
     "title":"Digital Marketing",
     "price": " 7999",
     "description":"Any marketing that uses electronic devices and can be used by marketing specialists to convey promotional messaging and measure its impact through your customer journey. In practice, digital marketing typically refers to marketing campaigns that appear on a computer, phone, tablet, or other device. It can take many forms, including online video, display ads, search engine marketing, paid social ads and social media posts. Digital marketing is often compared to “traditional marketing” such as magazine ads, billboards, and direct mail. Oddly, television is usually lumped in with traditional marketing.",
-    "image": "https://www.nielit.gov.in/sites/default/files/Aurangabad/WhatsApp%20Image%202020-11-12%20at%2012.01.16%20PM.jpeg"
+    "image": "https://www.nielit.gov.in/sites/default/files/Aurangabad/WhatsApp%20Image%202020-11-12%20at%2012.01.16%20PM.jpeg",
+    "duration": "6 Month"
     },
     {
     "id":5,
     "title":"Android Development",
     "price": " 12999",
     "description":"Android software development is the process by which applications are created for devices running the Android operating system. Google states that[3] Android apps can be written using Kotlin, Java, and C++ languages using the Android software development kit (SDK), while using other languages is also possible. All non-Java virtual machine (JVM) languages, such as Go, JavaScript, C, C++ or assembly, need the help of JVM language code, that may be supplied by tools, likely with restricted API support. Some programming languages and tools allow cross-platform app support (i.e. for both Android and iOS). Third party tools, development environments, and language support have also continued to evolve and expand since the initial SDK was released in 2008. The official Android app distribution mechanism to end users is Google Play; it also allows staged gradual app release, as well as distribution of pre-release app versions to testers.",
-    "image": "https://comxtech.com/wp-content/uploads/2018/07/web36.png"
+    "image": "https://comxtech.com/wp-content/uploads/2018/07/web36.png",
+    "duration": "1 Year"
     },
     {
     "id":6,
@@ -40,6 +45,7 @@
     "price": "8900",
     "description":"According to the American Institute of Graphic Arts (AIGA), graphic design is defined as the art and practice of planning and projecting ideas and experiences with visual and textual content. In other terms, graphic design communicates certain ideas or messages in a visual way. These visuals can be as simple as a business logo, or as complex as page layouts on a website. Graphic design takes graphical and textual elements and implements them into multiple types of media, says designer Alexandros Clufetos, when asked to elaborate on the graphic design definition. “It helps the producer connect with the consumer. It conveys the message of the project, event, campaign or product.Graphic design can be used by companies to promote and sell products through advertising, by websites to convey complicated information in a digestible way through infographics, or by businesses to develop an identity through branding, among other things.",
     "image": "https://sgp1.digitaloceanspaces.com/cosmosgroup/news/1071218_Graphic-Design.jpg"
+   
     }
    
        
