@@ -13,7 +13,14 @@ app.get("/", (req, res) => {
   app.get("/courses", (req, res) => {
     res.send(coursesCollection);
   });
-
+  app.get("/courses/:id", (req, res) => {
+    const id = req.params.id;
+    const item = coursesCollection?.find((p) => p.id == id);
+    if (!item) {
+      res.send("Kono COurse NAi");
+    }
+    res.send(item);
+  });
 
 
   app.listen(Port, () => {
